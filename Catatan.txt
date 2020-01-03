@@ -1,0 +1,9 @@
+Kredensial Pengelola
+
+user : admin
+pass : Admin123!
+
+
+*Fixed
+
+Penjadwalan sidang otomatis mengacu pada jadwal mengajar dan sidang dosen penguji 1, penguji 2, pembimbing 1 dan pembimbing 2
